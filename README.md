@@ -62,6 +62,10 @@ https://github.com/RuanFelixcode/fluxogramas-exercicios
 https://github.com/RuanFelixcode/pseudocodigo
 
 
+- montagem de circuitos no Tinkercad
+- https://github.com/RuanFelixcode/montagem_de_circuitos_no_Tinkercad
+
+
 
 
 
